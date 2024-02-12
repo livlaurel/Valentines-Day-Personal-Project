@@ -1,0 +1,52 @@
+body{
+   margin: 0%;
+   padding: 0%;
+   background-color: #FFD9D7;
+}
+
+.container{
+   font-family:Gill Sans, sans-serif, monospace;
+   color:rgb(49, 49, 49);
+   font-weight: bold;
+   font-size: xx-large;
+
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+}
+.yes {
+   background-color: antiquewhite;
+   color:  #373737 ;
+   padding: 20px 20px;
+   font-size: 16px; 
+   border: none;
+}
+.yes:hover {
+   background-color: #91CA98;
+   color:  #373737 ;
+   padding: 20px 20px;
+   font-size: 16px; 
+   border: none;
+}
+
+.no {
+   background-color: antiquewhite; 
+   color: #373737; 
+   padding: 20px 20px; 
+   font-size: 16px;
+   border: none;
+}
+.no:hover {
+   background-color: #EC8389; 
+   color: #373737; 
+   padding: 20px 20px; 
+   font-size: 16px;
+   border: none;
+}
+.valentine-gif {
+   width: 35%; 
+   height: auto;
+   display: block; 
+   margin-top: 10px;
+}
